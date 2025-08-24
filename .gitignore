@@ -102,7 +102,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -135,7 +134,6 @@ staticfiles/
 media/
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -148,3 +146,5 @@ media/
 .Trashes
 ehthumbs.db
 Thumbs.db 
+config.bat
+node_modules
